@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.btnHome{
+  margin: 10rem;
+  background-color: red;
+}
